@@ -1,0 +1,5 @@
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\RepositoryPattern\obj\Debug\RepositoryPattern.pdb

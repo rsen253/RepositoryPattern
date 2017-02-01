@@ -1,0 +1,24 @@
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\Defination.dll.config
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\Defination.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\Defination.pdb
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\EntityFramework.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\Interface.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\Interface.pdb
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\EntityFramework.xml
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\obj\Debug\Defination.csprojResolveAssemblyReference.cache
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\obj\Debug\Defination.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Defination\obj\Debug\Defination.pdb
+M:\Test App\RepositoryPattern\Defination\bin\Debug\Defination.dll.config
+M:\Test App\RepositoryPattern\Defination\bin\Debug\Defination.dll
+M:\Test App\RepositoryPattern\Defination\bin\Debug\Defination.pdb
+M:\Test App\RepositoryPattern\Defination\bin\Debug\EntityFramework.dll
+M:\Test App\RepositoryPattern\Defination\bin\Debug\EntityFramework.SqlServer.dll
+M:\Test App\RepositoryPattern\Defination\bin\Debug\Interface.dll
+M:\Test App\RepositoryPattern\Defination\bin\Debug\Interface.pdb
+M:\Test App\RepositoryPattern\Defination\bin\Debug\EntityFramework.xml
+M:\Test App\RepositoryPattern\Defination\bin\Debug\EntityFramework.SqlServer.xml
+M:\Test App\RepositoryPattern\Defination\obj\Debug\Defination.csprojResolveAssemblyReference.cache
+M:\Test App\RepositoryPattern\Defination\obj\Debug\Defination.dll
+M:\Test App\RepositoryPattern\Defination\obj\Debug\Defination.pdb

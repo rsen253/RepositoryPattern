@@ -1,0 +1,122 @@
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\ApplicationInsights.config
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\csc.exe
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\vbc.exe
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\VBCSCompiler.exe
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\App.dll.config
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\App.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\App.pdb
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Antlr3.Runtime.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Defination.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\EntityFramework.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\EntityFramework.SqlServer.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Interface.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.Web.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Newtonsoft.Json.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Helpers.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Mvc.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Optimization.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Razor.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.WebPages.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.WebPages.Razor.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\WebGrease.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Defination.pdb
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Interface.pdb
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\EntityFramework.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\EntityFramework.SqlServer.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.Web.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Helpers.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Mvc.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Optimization.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.Razor.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.WebPages.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Antlr3.Runtime.pdb
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\bin\Newtonsoft.Json.xml
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\obj\Debug\App.dll
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\App\obj\Debug\App.pdb
+M:\Test App\RepositoryPattern\App\bin\ApplicationInsights.config
+M:\Test App\RepositoryPattern\App\bin\roslyn\csc.exe
+M:\Test App\RepositoryPattern\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Test App\RepositoryPattern\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Test App\RepositoryPattern\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Test App\RepositoryPattern\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Test App\RepositoryPattern\App\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Test App\RepositoryPattern\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Test App\RepositoryPattern\App\bin\roslyn\System.Collections.Immutable.dll
+M:\Test App\RepositoryPattern\App\bin\roslyn\System.Reflection.Metadata.dll
+M:\Test App\RepositoryPattern\App\bin\roslyn\vbc.exe
+M:\Test App\RepositoryPattern\App\bin\roslyn\VBCSCompiler.exe
+M:\Test App\RepositoryPattern\App\bin\roslyn\VBCSCompiler.exe.config
+M:\Test App\RepositoryPattern\App\bin\App.dll.config
+M:\Test App\RepositoryPattern\App\bin\App.dll
+M:\Test App\RepositoryPattern\App\bin\App.pdb
+M:\Test App\RepositoryPattern\App\bin\Antlr3.Runtime.dll
+M:\Test App\RepositoryPattern\App\bin\Defination.dll
+M:\Test App\RepositoryPattern\App\bin\EntityFramework.dll
+M:\Test App\RepositoryPattern\App\bin\EntityFramework.SqlServer.dll
+M:\Test App\RepositoryPattern\App\bin\Interface.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.Agent.Intercept.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.DependencyCollector.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.Web.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.WindowsServer.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.ApplicationInsights.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Test App\RepositoryPattern\App\bin\Microsoft.Web.Infrastructure.dll
+M:\Test App\RepositoryPattern\App\bin\Newtonsoft.Json.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.Helpers.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.Mvc.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.Optimization.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.Razor.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.WebPages.Deployment.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.WebPages.dll
+M:\Test App\RepositoryPattern\App\bin\System.Web.WebPages.Razor.dll
+M:\Test App\RepositoryPattern\App\bin\WebGrease.dll
+M:\Test App\RepositoryPattern\App\bin\Defination.pdb
+M:\Test App\RepositoryPattern\App\bin\Interface.pdb
+M:\Test App\RepositoryPattern\App\bin\EntityFramework.xml
+M:\Test App\RepositoryPattern\App\bin\EntityFramework.SqlServer.xml
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.DependencyCollector.xml
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.Web.xml
+M:\Test App\RepositoryPattern\App\bin\Microsoft.AI.WindowsServer.xml
+M:\Test App\RepositoryPattern\App\bin\Microsoft.ApplicationInsights.xml
+M:\Test App\RepositoryPattern\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.Helpers.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.Mvc.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.Optimization.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.Razor.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.WebPages.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.WebPages.Deployment.xml
+M:\Test App\RepositoryPattern\App\bin\System.Web.WebPages.Razor.xml
+M:\Test App\RepositoryPattern\App\bin\Antlr3.Runtime.pdb
+M:\Test App\RepositoryPattern\App\bin\Newtonsoft.Json.xml
+M:\Test App\RepositoryPattern\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+M:\Test App\RepositoryPattern\App\obj\Debug\App.dll
+M:\Test App\RepositoryPattern\App\obj\Debug\App.pdb

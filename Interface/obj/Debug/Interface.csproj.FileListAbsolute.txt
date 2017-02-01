@@ -1,0 +1,5 @@
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Interface\bin\Debug\Interface.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Interface\bin\Debug\Interface.pdb
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Interface\obj\Debug\Interface.dll
+c:\users\mindfire\documents\visual studio 2015\Projects\RepositoryPattern\Interface\obj\Debug\Interface.pdb
+C:\Users\mindfire\Documents\Visual Studio 2015\Projects\RepositoryPattern\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
